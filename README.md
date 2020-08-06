@@ -1,4 +1,5 @@
-# README
+
+[Project Link](https://mystockpriceapp.herokuapp.com/)
 
 ## How to setup this project using python and django.
 1. This app is made using Python, Django, HTML and CSS.
@@ -27,6 +28,6 @@ to make sure your server is running.
 4. Then you display the values and recommended prices to the user. For this project I have used Bootstrap and CSS on the frontend. Your project should be ready to go.
 
 
-[Heroku]()
+
 
 
