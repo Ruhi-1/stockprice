@@ -1,0 +1,20 @@
+body{
+    margin-top: 40px;
+    /* margin: 10px; */
+    
+}
+.center {
+    text-align: center;
+    height: 50px;
+    padding-top: 10px;
+    font-family: 'Raleway', sans-serif;;
+}
+.gap {
+    padding-top: 40px;
+}
+.recomd{
+    text-align: center;
+    padding-top: 20px;
+    height: 70px;
+    font-family: 'Antic Slab', serif;;
+}
